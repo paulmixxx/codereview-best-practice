@@ -5,6 +5,8 @@
 ## Пирамида code review
 https://habr.com/ru/companies/productivity_inside/articles/664566/
 
+![code-review-pyramid!](code-review-pyramid.png "code-review-pyramid")
+
 Порядок от самого важного к менее важному:
 
 1. Решает ли код задачу?
